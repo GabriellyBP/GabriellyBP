@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 <div dsplay="inline-block">
  
- <h1 align="left">Gabrielly Breganhola Pisaneschi</h1>
+  <h1 align="left">✨ Sejam Bem vindos ao meu GitHub ✨</h1>
+  
  <a href="https://www.instagram.com/gbreganhola/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
@@ -37,18 +38,17 @@ Here are some ideas to get you started:
 
 
 
-
-
 </br>
 </br>
 
-### Ola!!
+### Olá!!
 
-Tenho 30 anos, moro em São Paulo SP/SP e amo animais! Sou iniciante no universo da programação, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 30 anos, moro em São Paulo SP/SP !! Sou iniciante no universo da programação, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://c.tenor.com/cuw6u4jbOuMAAAAC/cat-work-laptop.gif" width="350">
 </p>
+
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
