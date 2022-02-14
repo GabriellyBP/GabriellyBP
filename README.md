@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Olá!!
 
-Tenho 30 anos, moro em São Paulo SP/SP !! Sou iniciante no universo da programação, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 30 anos, e sou iniciante na programação ❤
 
 <p align="center">
   <img src="https://c.tenor.com/cuw6u4jbOuMAAAAC/cat-work-laptop.gif" width="350">
