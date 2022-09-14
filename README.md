@@ -70,6 +70,10 @@ Tenho 31 anos, e sou iniciante na programação ❤
  <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver;</p>
 
 </br>
+<img width="400px" src="https://user-images.githubusercontent.com/97494920/190184042-ee540b26-6352-4f77-b1f4-80f5803d755b.png"/>
+
+</br>
+
 
 
 
