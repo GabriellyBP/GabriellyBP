@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Olá!!
 
-Tenho 31 anos, e sou iniciante na programação ❤
+Tenho 32  anos, e sou iniciante  na programção ❤
 
 <p align="center">
   <img src="https://c.tenor.com/cuw6u4jbOuMAAAAC/cat-work-laptop.gif" width="350">
